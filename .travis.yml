@@ -7,7 +7,7 @@ cache: yarn
 
 branches:
   only:
-  - dev
+  - master
 
 script:
   - yarn hello
