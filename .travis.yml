@@ -8,6 +8,7 @@ cache: yarn
 branches:
   only:
   - master
+  
 script:
   - yarn hello
   - yarn bye
