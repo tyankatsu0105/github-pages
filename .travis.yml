@@ -10,3 +10,4 @@ branches:
   - master
 script:
   - yarn hello
+  - yarn bye
